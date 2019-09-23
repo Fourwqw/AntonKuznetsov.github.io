@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE profile PUBLIC "-" "http://kodaktor.ru/x/unsafe_edc11">
+<profile>
+	<students>
+		<goals>
+		</goals>
+	</students>
+
+</profile>
