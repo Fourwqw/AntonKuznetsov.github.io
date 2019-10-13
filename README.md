@@ -44,8 +44,10 @@ main()
 input()  
 
 ```
-2. Вывод таблицы истинности для не A
-```Python
+2. Вывод таблицы истинности для не A  
+
+```Python  
+
 header = "- A -- not A -"
 tmpLen =  len(" not A ")
 dot = "-"
@@ -58,7 +60,8 @@ print(dot + " " + str(A[0]) + " " + dot*2 +
 	 dot + " " + str(A[1]) + " " + dot*2 +
 	 tmpLen // 2 * " " + str(int(not A[1])) + tmpLen // 2 * " " + dot 
 	 + "\n" + dot * len(header) +"\n")
-input()
+input()  
+
 ```
 3.
 ### Работы по веб-дизайну
