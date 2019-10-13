@@ -9,5 +9,5 @@
 -Excel  
 -Github pages  
 ### Фото моего кота
-![MyCat](Руби.jpg "Mimimi")
+![MyCat](руби.jpg "Mimimi")
 ##### EditWorld
