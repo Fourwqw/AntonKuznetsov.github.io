@@ -7,25 +7,41 @@
 -PascalABC  
 -Excel  
 -Github pages  
-### Работы по Программированию
-1.
+### Работы по Программированию:
+1. Вычисление площади треугольника по формуле Герона
 ```Python
-input math
+"""
+		Кузнецов Антон Денисович 
+		ИВТ 1.1, 2 курс
+		Задание: вычисление площади треугольника по формуле Герона
+"""
+import math
 
-def geron(a, b, c):
-	p = int(1/2 * (a + b +c))
-	res = math.sqrt(p * (p-a) * (p -b) * (p - c))
+def geron_sq(a,b,c):
+	"""
+		Функция вычисляет площадь треугольника по трем сторонам.
+
+
+	"""
+	p = int((a + b + c) / 2)
+	res = p * math.sqrt((p - a) * (p - b) * (p -c))
 	return res
 
 def main():
-	a = int(input("Enter a: "))
-	b = int(input("Enter b: "))
-    c = int(input("Enter c: "))
-    print(geron(a, b, c))
-    
+	"""
+		Функция всех функций
+		
+	"""
+	a = int(input("Введите сторону a:"))
+	b = int(input("Введите сторону b:"))
+	c = int(input("Введите сторону c:"))
+	print(geron_sq(a, b, c))
+
+
 main()
+input()
 ```
-2.
+2. Вывод таблицы истинности для не A
 ```Python
 header = "- A -- not A -"
 tmpLen =  len(" not A ")
@@ -43,7 +59,7 @@ input()
 ```
 3.
 ### Работы по веб-дизайну
-
+1.
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
 #### EditWorld
