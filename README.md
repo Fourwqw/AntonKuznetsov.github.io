@@ -73,8 +73,42 @@ input()
 ```
 3.
 
-### Работы по веб-дизайну
-1.
+### Веб:
+3 семестр:
+1. Completed!
+2. DTD
+https://github.com/Fourwqw/AntonKuznetsov.github.io/tree/master/part2
+3. LAB
+https://github.com/Fourwqw/AntonKuznetsov.github.io/tree/master/part2
+4. Введение
+https://kodaktor.ru/task_18c81
+5. функции 
+const concat = require('goss_concat');
+function rgb(r = 255, g = 255, b = 255) {
+  return concat('rgb(', r, ',', g, ',', b, ')');
+}
+console.log(rgb(14, 188)); 
+document.querySelector('button')
+.addEventListener(
+  'click',
+   e => {
+     const result = rgb(255,10);
+     document.body.style.backgroundColor = result;
+     e.target.textContent = result; 
+   }
+);
+6. Зависимость
+https://kodaktor.ru/task_func_8589b
+8. Счётчик
+https://kodaktor.ru/2c4cefb_bbbd4
+9. jQuery
+https://kodaktor.ru/zzzzzzz_376d7
+10. IIFE
+https://kodaktor.ru/16102018_8cd7e
+11. LAB
+https://kodaktor.ru/08fd736_140f4
+12.Async/fetch 
+https://kodaktor.ru/13112018_04372
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
 #### EditWorld
