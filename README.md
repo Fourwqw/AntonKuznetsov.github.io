@@ -83,6 +83,7 @@ input()
 4. Введение
 [Тута](https://kodaktor.ru/task_18c81)
 5. функции 
+```JavaScript 
 """
 const concat = require('goss_concat');
 function rgb(r = 255, g = 255, b = 255) {
@@ -99,17 +100,25 @@ document.querySelector('button')
    }
 );
 """
+```
+
 6. Зависимость
 [Тута](https://kodaktor.ru/task_func_8589b)
+
 7.
+
 8. Счётчик
 [Тута](https://kodaktor.ru/2c4cefb_bbbd4)
+
 9. jQuery
 [Тута](https://kodaktor.ru/zzzzzzz_376d7)
+
 10. IIFE
 [Тута](https://kodaktor.ru/16102018_8cd7e)
+
 11. LAB
 [Тута](https://kodaktor.ru/08fd736_140f4)
+
 12.Async/fetch 
 [Тута](https://kodaktor.ru/13112018_04372)
 
