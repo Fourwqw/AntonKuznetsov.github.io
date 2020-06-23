@@ -74,7 +74,7 @@ input()
 3.
 
 ### Веб:
-3 семестр
+3 СЕМЕСТР
 
 1. Completed!
 
@@ -112,7 +112,7 @@ document.querySelector('button')
 6. Зависимость.
 [Тута](https://kodaktor.ru/task_func_8589b).
 
-7.
+7. Тута.
 
 8. Счётчик.
 [Тута](https://kodaktor.ru/2c4cefb_bbbd4).
