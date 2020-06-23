@@ -113,21 +113,16 @@ document.querySelector('button')
 6) Зависимость.
 [Тута](https://kodaktor.ru/task_func_8589b).
 
-7) Тута.
-
-8) Счётчик.
+7) Счётчик.
 [Тута](https://kodaktor.ru/2c4cefb_bbbd4).
 
-9) jQuery.
-[Тута](https://kodaktor.ru/zzzzzzz_376d7).
-
-10) IIFE.
+8) IIFE.
 [Тута](https://kodaktor.ru/16102018_8cd7e).
 
-11) LAB.
+9) LAB.
 [Тута](https://kodaktor.ru/08fd736_140f4).
 
-12) Async/fetch. 
+10) Async/fetch. 
 [Тута](https://kodaktor.ru/13112018_04372).
 
 ### Фото моего кота
