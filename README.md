@@ -76,18 +76,18 @@ input()
 ### Веб:
 3 СЕМЕСТР
 
-1. Completed!
+1) Completed!
 
-2. DTD.
+2) DTD.
 [Тута](https://github.com/Fourwqw/AntonKuznetsov.github.io/tree/master/part2).
 
-3. LAB.
+3) LAB.
 [Тута](https://github.com/Fourwqw/AntonKuznetsov.github.io/tree/master/part2).
 
-4. Введение.
+4) Введение.
 [Тута](https://kodaktor.ru/task_18c81).
 
-5. Функции. 
+5) Функции. 
 
 ```JavaScript 
 
@@ -106,27 +106,28 @@ document.querySelector('button')
      e.target.textContent = result; 
    }
 );
-"""
-```
 
-6. Зависимость.
+"""
+
+```
+6) Зависимость.
 [Тута](https://kodaktor.ru/task_func_8589b).
 
-7. Тута.
+7) Тута.
 
-8. Счётчик.
+8) Счётчик.
 [Тута](https://kodaktor.ru/2c4cefb_bbbd4).
 
-9. jQuery.
+9) jQuery.
 [Тута](https://kodaktor.ru/zzzzzzz_376d7).
 
-10. IIFE.
+10) IIFE.
 [Тута](https://kodaktor.ru/16102018_8cd7e).
 
-11. LAB.
+11) LAB.
 [Тута](https://kodaktor.ru/08fd736_140f4).
 
-12. Async/fetch. 
+12) Async/fetch. 
 [Тута](https://kodaktor.ru/13112018_04372).
 
 ### Фото моего кота
