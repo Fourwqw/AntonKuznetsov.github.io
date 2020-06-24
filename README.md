@@ -124,6 +124,13 @@ document.querySelector('button')
 
 10) Async/fetch. 
 [Тута](https://kodaktor.ru/13112018_04372).
+4 СЕМЕСТР
+1)HTML5 API
+[Тута](https://kodaktor.ru/be8e0d3_368bd).
+[Тута](https://kodaktor.ru/custom_39cb4).
+2)Canvas
+[Тута](https://kodaktor.ru/3b1c96e_a3ff8).
+[Тута](https://kodaktor.ru/30_4ce74).
 
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
