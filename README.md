@@ -74,7 +74,7 @@ input()
 3.
 
 ## Веб:
-###3 СЕМЕСТР.
+### 3 СЕМЕСТР
 
 1) Completed!
 
@@ -125,7 +125,7 @@ document.querySelector('button')
 10) Async/fetch. 
 [Тута](https://kodaktor.ru/13112018_04372).
 
-###4 СЕМЕСТР.
+### 4 СЕМЕСТР
 
 1) HTML5 API.
 
@@ -147,7 +147,7 @@ document.querySelector('button')
 
 [Тута](https://stackblitz.com/edit/react-ev3dxr).
 
-###Самостоятельная работа.
+### Самостоятельная работа
 
 ИСР
 
