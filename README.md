@@ -151,9 +151,29 @@ document.querySelector('button')
 
 ИСР
 
-1.1) 
-1.2)
-1.3)
+1.1) Микшер. 
+
+[Тута](https://kodaktor.ru/1dc8cc3).
+
+1.2) Корзинка.
+
+[Тута](https://kodaktor.ru/custom_39cb4).
+
+2.1) Canvas.
+
+[Тута](https://kodaktor.ru/3b1c96e_a3ff8).
+
+2.2) Fabric.
+
+[Тута](https://kodaktor.ru/0f1bb39_5517a).
+
+3.1) Визуализация инфографики.
+
+[Тута](https://kodaktor.ru/0f1bb39).
+
+3.2) Капча.
+
+[Тута](https://kodaktor.ru/33b25ec).
 
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
