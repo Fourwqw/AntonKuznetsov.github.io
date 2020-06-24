@@ -124,6 +124,7 @@ document.querySelector('button')
 
 10) Async/fetch. 
 [Тута](https://kodaktor.ru/13112018_04372).
+
 4 СЕМЕСТР
 
 1)HTML5 API.
