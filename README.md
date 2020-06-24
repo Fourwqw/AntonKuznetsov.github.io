@@ -74,17 +74,20 @@ input()
 3.
 
 ## Веб:
-### 3 СЕМЕСТР
+3 СЕМЕСТР
 
 1) Completed!
 
 2) DTD.
+
 [Тута](https://github.com/Fourwqw/AntonKuznetsov.github.io/tree/master/part2).
 
 3) LAB.
+
 [Тута](https://github.com/Fourwqw/AntonKuznetsov.github.io/tree/master/part2).
 
 4) Введение.
+
 [Тута](https://kodaktor.ru/task_18c81).
 
 5) Функции. 
@@ -111,21 +114,26 @@ document.querySelector('button')
 
 ```
 6) Зависимость.
+
 [Тута](https://kodaktor.ru/task_func_8589b).
 
 7) Счётчик.
+
 [Тута](https://kodaktor.ru/2c4cefb_bbbd4).
 
 8) IIFE.
+
 [Тута](https://kodaktor.ru/16102018_8cd7e).
 
 9) LAB.
+
 [Тута](https://kodaktor.ru/08fd736_140f4).
 
 10) Async/fetch. 
+
 [Тута](https://kodaktor.ru/13112018_04372).
 
-### 4 СЕМЕСТР
+4 СЕМЕСТР
 
 1) HTML5 API.
 
