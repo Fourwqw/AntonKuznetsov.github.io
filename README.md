@@ -127,21 +127,21 @@ document.querySelector('button')
 
 ####4 СЕМЕСТР
 
-1)HTML5 API.
+1) HTML5 API.
 
 [Тута](https://kodaktor.ru/be8e0d3_368bd).
 
 [Тута](https://kodaktor.ru/custom_39cb4).
 
-2)Canvas.
+2) Canvas.
 
 [Тута](https://kodaktor.ru/3b1c96e_a3ff8).
 
-3.GD2 
+3) GD2. 
 
 [Тута](https://kodaktor.ru/30_4ce74).
 
-4. JSX React
+4) JSX React.
 
 [Тута](https://react-ev3dxr.stackblitz.io).
 
@@ -149,8 +149,11 @@ document.querySelector('button')
 
 ####Самостоятельная работа
 
-#####ИСР
+ИСР
 
+1.1) 
+1.2)
+1.3)
 
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
