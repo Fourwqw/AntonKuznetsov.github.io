@@ -74,7 +74,7 @@ input()
 3.
 
 ### Веб:
-3 СЕМЕСТР
+####3 СЕМЕСТР
 
 1) Completed!
 
@@ -125,7 +125,7 @@ document.querySelector('button')
 10) Async/fetch. 
 [Тута](https://kodaktor.ru/13112018_04372).
 
-4 СЕМЕСТР
+####4 СЕМЕСТР
 
 1)HTML5 API.
 
@@ -137,7 +137,20 @@ document.querySelector('button')
 
 [Тута](https://kodaktor.ru/3b1c96e_a3ff8).
 
+3.GD2 
+
 [Тута](https://kodaktor.ru/30_4ce74).
+
+4. JSX React
+
+[Тута](https://react-ev3dxr.stackblitz.io).
+
+[Тута](https://stackblitz.com/edit/react-ev3dxr).
+
+####Самостоятельная работа
+
+#####ИСР
+
 
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
