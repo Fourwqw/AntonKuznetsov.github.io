@@ -10,6 +10,7 @@
 -PascalABC  
 -Excel  
 -Github pages  
+# 2 Семестр 
 ### Работы по Программированию:
 1. Вывод таблицы истинности для не A   
 
@@ -73,8 +74,9 @@ input()
 ```
 3.
 
+#3 СЕМЕСТР
 ## Веб:
-3 СЕМЕСТР
+
 
 1) Completed!
 
@@ -133,7 +135,7 @@ document.querySelector('button')
 
 [Тута](https://kodaktor.ru/13112018_04372).
 
-4 СЕМЕСТР
+#4 СЕМЕСТР
 
 1) HTML5 API.
 
@@ -183,6 +185,15 @@ document.querySelector('button')
 
 [Тута](https://kodaktor.ru/33b25ec).
 
+#5 Семестр
+
+## Ит в изучении иностранных языков:
+### Задания 
+1) 
+2)
+3)
+4)
+5)
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
 #### EditWorld
