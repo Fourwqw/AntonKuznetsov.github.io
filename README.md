@@ -200,6 +200,10 @@ document.querySelector('button')
 4)
 
 5)
+# 7 Семестр
+### Практикум по программированию:
+Занятие 1:
+
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
 #### EditWorld
