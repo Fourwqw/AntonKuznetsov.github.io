@@ -125,8 +125,8 @@ document.querySelector('button')
 
 ## itmo
 ### web-sem-02
-1) Задание 1 - MathML(https://github.com/Fourwqw/itmo-web-sem2/tree/main/Math-ML).
-2) Задание 2 - SVG(https://github.com/Fourwqw/itmo-web-sem2/tree/main/SVG).
+1) [Задание 1](Fourwqw/itmo-web-sem2/tree/main/Math-ML) - MathML
+2) [Задание 2](Fourwqw/itmo-web-sem2/tree/main/SVG) - SVG
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
 #### EditWorld
