@@ -123,7 +123,10 @@ document.querySelector('button')
 
 [Тута](https://kodaktor.ru/33b25ec).
 
-
+## itmo
+### web-sem-02
+1) Задание 1 - MathML(https://github.com/Fourwqw/itmo-web-sem2/tree/main/Math-ML).
+2) Задание 2 - SVG(https://github.com/Fourwqw/itmo-web-sem2/tree/main/SVG).
 ### Фото моего кота
 ![MyCat](руби.jpg "Mimimi")
 #### EditWorld
