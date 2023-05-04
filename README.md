@@ -12,14 +12,16 @@
 -Github pages  
 
 
-# itmo
+
+# ITMO
 ### web-sem-02
+
 1) [Задание 1](https://github.com/Fourwqw/itmo-web-sem2/tree/main/Math-ML/) - MathML
 2) [Задание 2](https://github.com/Fourwqw/itmo-web-sem2/tree/main/SVG/) - SVG
 
 
 
-# Веб-разработка:
+# Веб-разработка
 ### 3 СЕМЕСТР
 
 1) Completed!
